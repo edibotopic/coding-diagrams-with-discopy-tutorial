@@ -16,4 +16,10 @@ pip install -r requirements.txt
 ```
 
 I recommend installing in a virtual environment and using VSCode, which has
-excellent support fo `.ipynb` files.
+excellent support for `.ipynb` files.
+
+You can also run an interactive version of the notebook online using Binder.
+Warning: it can take a few minutes before an editable version is rendered.
+Click the button below if you are interested in this option:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edibotopic/coding-diagrams-with-discopy-tutorial/HEAD?labpath=tutorial.ipynb)
