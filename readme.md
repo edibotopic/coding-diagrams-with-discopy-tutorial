@@ -5,8 +5,7 @@ DisCoPy is a Python toolkit for generating diagrams with code.
 This repo consists of a single `.ipynb` file with text and code showing simple
 examples of how DisCoPy can be used.
 
-You can view the `.ipynb` file directly in GitHub or try the `.html` and `.pdf`
-versions.
+You can view the `.ipynb` file directly in GitHub or try `.pdf` version.
 
 To play with the examples yourself `git clone` the repo, `cd` to the directory 
 and install DisCoPy with:
